@@ -1,0 +1,15 @@
+C:\Users\RekrKrähsmaier\Desktop\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\RekrKrähsmaier\Desktop\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\RekrKrähsmaier\Desktop\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\RekrKrähsmaier\Desktop\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\RekrKrähsmaier\Desktop\Tetris\Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\RekrKrähsmaier\Desktop\Tetris\Tetris\obj\Debug\App.g.cs
+C:\Users\RekrKrähsmaier\Desktop\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+C:\Users\RekrKrähsmaier\Desktop\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+C:\Users\RekrKrähsmaier\Desktop\Tetris\Tetris\obj\Debug\MainWindow.baml
+C:\Users\RekrKrähsmaier\Desktop\Tetris\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\RekrKrähsmaier\Desktop\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\RekrKrähsmaier\Desktop\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\RekrKrähsmaier\Desktop\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\RekrKrähsmaier\Desktop\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\RekrKrähsmaier\Desktop\Tetris\Tetris\obj\Debug\Tetris.pdb
